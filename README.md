@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh%20Humnekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-humnekar-a3a44a177)
 [![Gmail](https://img.shields.io/badge/Gmail-rishabhhumneakr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhhumneakr@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-9301996667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919301996667)
+[![Phone](https://img.shields.io/badge/Phone-+91%209301996667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919301996667)
 
 <br/>
 
