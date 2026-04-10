@@ -26,7 +26,7 @@
 
 ---
 
-## `$ whoami`
+## 👤 About Me
 
 > Data analyst with a bias for action, not just observation.
 
@@ -36,7 +36,7 @@ A chart with no recommendation is just decoration. I build the recommendation.
 
 ---
 
-## `$ cat tools.config`
+## 🛠 Skills & Tools
 
 <div align="center">
 
@@ -51,7 +51,7 @@ A chart with no recommendation is just decoration. I build the recommendation.
 
 ---
 
-## `$ ls -la ./projects/`
+## 🚀 Selected Work
 
 <br/>
 
@@ -131,7 +131,7 @@ A chart with no recommendation is just decoration. I build the recommendation.
 
 ---
 
-## `$ cat certifications.log`
+## 🎓 Certifications
 
 ```bash
 [2026] ✔  Microsoft Power BI Data Analyst Professional Certificate  →  Coursera
@@ -142,7 +142,7 @@ A chart with no recommendation is just decoration. I build the recommendation.
 
 ---
 
-## `$ git log --oneline --education`
+## 🎓 Education
 
 ```
 🎓  B.Tech — Computer Science & Engineering
