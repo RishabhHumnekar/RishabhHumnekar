@@ -13,9 +13,9 @@
 ```sql
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
-║   SELECT insights FROM raw_data                                ║
-║   WHERE noise = 0 AND clarity = 100                           ║
-║   ORDER BY business_impact DESC;                               ║
+║   SELECT 'Rishabh Humnekar' AS data_analyst                    ║
+║   WHERE expertise = 'SQL, Python, Power BI'                    ║
+║     AND focus = 'turning data into business decisions';                                       ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -152,23 +152,7 @@ A chart with no recommendation is just decoration. I build the recommendation.
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishabhhumneakr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhhumneakr&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rishabhhumneakr&theme=github-dark&hide_border=true" height="160"/>
-
-</div>
 
 ---
 
