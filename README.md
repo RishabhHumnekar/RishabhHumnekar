@@ -1,53 +1,117 @@
-# Rishabh Humneakr — Data Analyst
+<div align="center">
 
-📧 rishabhhumneakr@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/rishabhhumneakr) &nbsp;|&nbsp; [GitHub](https://github.com/rishabhhumneakr)
+```
+╔══════════════════════════════════════════════════════╗
+║   SELECT * FROM analyst WHERE name = 'Rishabh';      ║
+╚══════════════════════════════════════════════════════╝
+```
 
----
+# Rishabh Humneakr
 
-I'm a data analyst who works across the full pipeline — from pulling raw data out of MySQL to building dashboards that non-technical stakeholders can actually use. My focus is on making the numbers tell a clear story, not just look good on a screen.
+**Data Analyst** — turning messy data into decisions that stick
 
-Most of my work lives in **Power BI, SQL, and Python**. I've analyzed everything from HR attendance patterns to city-level cab ride performance — always with the goal of finding the insight that changes a decision.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhhumneakr)
+[![Gmail](https://img.shields.io/badge/-rishabhhumneakr@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishabhhumneakr@gmail.com)
 
----
-
-## What I Work With
-
-**BI & Reporting** — Power BI (DAX, Power Query, RLS), Excel (Power Pivot, Power Query)
-
-**Data & Querying** — SQL (CTEs, Window Functions, JOINs, Ad-hoc analysis), MySQL
-
-**Programming** — Python, Pandas, NumPy
+</div>
 
 ---
 
-## Projects
+### `$ whoami`
 
-**Transportation & Mobility Data Insights**
-Analyzed 426K cab trips across 10 tier-2 Indian cities. Found that Jaipur, Lucknow, and Surat drive the bulk of revenue while Mysore and Coimbatore are underperforming. Repeat passengers account for 51% of revenue and 58% of trips — used this to recommend a loyalty program strategy. Also benchmarked actual vs target KPIs across trip volume, new passengers, and ratings.
-`Power BI · Excel · SQL`
+Data analyst with hands-on experience across the full stack — raw SQL extractions, Python-based EDA, and interactive Power BI dashboards built for people who don't care about the code, only the answer. I've worked on datasets ranging from city-level mobility patterns to retail customer behaviour, and I'm most comfortable in that space between "here's the data" and "here's what it means."
 
-**Regional Sales Performance & Profitability Analysis**
-Built a full pipeline from MySQL → Python → Power BI. Identified a 12% revenue leakage through correlation analysis and mapped unit price vs margin trends by state. Used RLS for secure report distribution and time-series forecasting for regional projections. Projected 15% improvement in regional ROI.
-`Python · SQL · Power BI · Excel`
-
-**Retail Revenue & Customer Behaviour Analysis**
-EDA on 10K+ transactions across 100 branches. Key findings: 2-wheelers dominate volume (92.6% market share), 4-wheelers show higher CAGR and margin. Credit cards led transaction volume but E-Wallets had higher profit per transaction. ~80% of profit came from just two categories. Peak demand falls on Thu/Sun evenings and Nov–Mar.
-`Python · Pandas · SQL`
+I care about one thing more than anything else in analytics: **so what?** A chart without a recommendation is just decoration.
 
 ---
 
-## Experience
+### `$ cat skills.txt`
 
-**Data Analyst — AtliQ Technologies** *(Jan 2026 – Feb 2026)*
-Worked across three domains during this internship: HR analytics (6K+ attendance records, WFH trends), sales reporting (57K+ orders, variance analysis, SQL debugging), and insurance dashboards (26K+ records, Power BI, client-facing reports). Operated in an Agile/SCRUM environment throughout.
+```yaml
+BI & Visualization : Power BI (DAX, Power Query, RLS, ETL), Excel (Power Pivot, Pivot Tables)
+Databases          : MySQL, SQL (CTEs, Window Functions, JOINs, Subqueries, Views)
+Programming        : Python, Pandas, NumPy, SQLAlchemy
+Workflow           : Agile / SCRUM, Stakeholder Reporting, Dashboard Publishing
+```
 
 ---
 
-## Education & Certifications
+### `$ ls ./projects`
 
-B.Tech in Computer Science — Barkatullah University Institute of Technology, Bhopal (2020–2024) | CGPA: 7.5
+<details>
+<summary><b>🚖 Transportation & Mobility Data Insights</b> — Power BI · Excel · SQL</summary>
 
-- Google Data Analytics Professional Certificate — Coursera (2024)
-- Microsoft Power BI Data Analyst Professional Certificate — Coursera (2026)
-- Career Essentials in Data Analysis — Microsoft & LinkedIn (2025)
-- Data Analysis using Power BI — CampusX (2025)
+<br>
+
+> 426,000 trips. 10 cities. One question: where is the money, and why?
+
+- Jaipur, Lucknow, and Surat emerged as core revenue hubs through city-level performance segmentation
+- Repeat passengers drive **51% of revenue** and **58% of trips** — built the case for a loyalty program
+- KPI benchmarking revealed a trip target gap of **–3K**, new passenger shortfall of **–8K** in Jaipur alone, and a rating gap of 7.6 vs a 7.9 target — all fed into concrete pricing and driver allocation recommendations
+
+[View Project →](https://github.com/rishabhhumneakr)
+
+</details>
+
+<details>
+<summary><b>📦 Regional Sales Performance & Profitability Analysis</b> — Python · SQL · Power BI · Excel</summary>
+
+<br>
+
+> Built pipeline first, asked questions second.
+
+- End-to-end flow: MySQL extraction → Python transformation → Power BI reporting
+- Correlation and univariate analysis uncovered a **12% revenue leakage** hiding in regional margin data
+- Implemented RLS for role-based secure distribution; time-series forecasting layered on top
+- Unit price vs margin mapping projected a **15% improvement** in regional ROI
+
+[View Project →](https://github.com/rishabhhumneakr)
+
+</details>
+
+<details>
+<summary><b>🛒 Retail Revenue & Customer Behaviour Analysis</b> — Python · Pandas · SQL</summary>
+
+<br>
+
+> 10,000+ transactions. 100 branches. The patterns were hiding in plain sight.
+
+- 2-wheelers dominate on volume (92.6% market share, 47M units) — 4-wheelers win on margin (367% revenue growth, higher CAGR)
+- E-Wallets outperform credit cards on profit per transaction despite lower volume
+- **~80% of profit** concentrated in Home & Lifestyle and Fashion Accessories
+- Peak demand: evenings, Thu/Sun, November through March — actionable for promotions and staffing
+
+[View Project →](https://github.com/rishabhhumneakr)
+
+</details>
+
+---
+
+### `$ cat certifications.log`
+
+```
+[2024] ✔ Google Data Analytics Professional Certificate         — Coursera
+[2025] ✔ Career Essentials in Data Analysis                    — Microsoft & LinkedIn  
+[2025] ✔ Data Analysis using Power BI                          — CampusX
+[2026] ✔ Microsoft Power BI Data Analyst Professional Certificate — Coursera
+```
+
+---
+
+### `$ git log --oneline`
+
+```
+🎓  B.Tech in Computer Science & Engineering
+    Barkatullah University Institute of Technology, Bhopal
+    2020 – 2024 | CGPA: 7.5
+```
+
+---
+
+<div align="center">
+
+**Currently open to data analyst roles — remote or hybrid**
+
+*"In God we trust. All others must bring data."*
+
+</div>
