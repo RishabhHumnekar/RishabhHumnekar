@@ -152,17 +152,21 @@ A chart with no recommendation is just decoration. I build the recommendation.
 
 ---
 
-## `$ cat github_stats.md`
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishabhhumneakr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhhumneakr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rishabhhumneakr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhhumneakr&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhhumneakr&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rishabhhumneakr&theme=github-dark&hide_border=true" height="160"/>
 
 </div>
 
