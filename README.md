@@ -6,18 +6,18 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh%20Humnekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-humnekar-a3a44a177)
 [![Gmail](https://img.shields.io/badge/Gmail-rishabhhumneakr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhhumneakr@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91%209301996667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919301996667)
+[![Phone](https://img.shields.io/badge/Phone-9301996667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919301996667)
 
 <br/>
 
 ```sql
 ╔════════════════════════════════════════════════════════════════╗
 ║                                                                ║
-║   SELECT 'Rishabh Humnekar' AS data_analyst                    ║
-║   WHERE expertise = 'SQL, Python, Power BI'                    ║
-║     AND focus = 'turning data into business decisions';       ║
+║   SELECT insights FROM raw_data                                ║
+║   WHERE noise = 0 AND clarity = 100                           ║
+║   ORDER BY business_impact DESC;                               ║
 ║                                                                ║
-╚════════════════════════════════════════════════════════════════╝═════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2c5364&center=true&vCenter=true&multiline=false&width=600&lines=Turning+raw+datasets+into+real+decisions+%F0%9F%93%8A;426K%2B+trips+analyzed+across+10+cities+%F0%9F%9A%96;12%25+revenue+leakage+caught+%E2%80%94+before+it+hurt+%F0%9F%94%8D;From+MySQL+to+Power+BI+%E2%80%94+end+to+end+%E2%9C%85" />
@@ -151,7 +151,6 @@ A chart with no recommendation is just decoration. I build the recommendation.
 ```
 
 ---
-
 
 
 ---
